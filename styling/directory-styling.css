@@ -1,0 +1,37 @@
+/* Directory Styling */
+
+.wpc-directory-wrap {
+    border: 1px solid #dbdbdb;
+    margin-bottom: 31px;
+    padding-bottom: 28px;
+}
+.wpc-directory-image {
+  object-fit: cover;
+  width: 100%;
+  height: 230px;
+  margin-bottom: 10px;
+}
+.wpc-directory-title {
+    color: #1e2427;
+    font-family: 'Source Pro Sans', sans-serif;
+    font-size: 22.5px;
+    line-height: 27px;
+    font-style: normal;
+    font-weight: 600;
+    letter-spacing: 0px;
+    text-transform: none;
+    margin-bottom: 6px;
+    padding: 8px 30px 5px 30px;
+}
+.wpc-directory-text {
+    font-size: 14px;
+    line-height: 23px;
+    padding: 0px 30px 0px 30px;
+}
+.wpc-directory-text a {
+    color: #cd4335;
+    font-weight: 600;
+}
+.wpc-directory-wrap img[src=""] {
+    display: none;
+}
